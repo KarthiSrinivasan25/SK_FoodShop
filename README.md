@@ -25,6 +25,7 @@ Blog Section – Informative blogs about organic food, health, and farming.
 Footer Section – Contact details, social media links, and newsletter subscription.
 
 
+
 🛠️ Tech Stack:
 
 Frontend: HTML, CSS, JavaScript.
